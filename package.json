@@ -1,0 +1,28 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "mars rover",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "deep-equal": "^2.0.5",
+    "ts-node": "^10.7.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/deep-equal": "^1.0.1",
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "jest-mock-extended": "^2.0.4",
+    "ts-jest": "^27.1.3"
+  }
+}
